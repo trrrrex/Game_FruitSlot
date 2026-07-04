@@ -1,6 +1,6 @@
 # Game_FruitSlot
 Primitive Slots Machine Simulator, my very first time exploring gamedev and using GoDot 3.5.
-Programed in GDSkript - exported to github as html, so you can try your luck too!
+Programed in GDSkript - here uploaded original code and also exported to github as web-page, so you can try your luck too!
 
 Try it: https://trrrrex.github.io/Game_FruitSlot/ !
 
